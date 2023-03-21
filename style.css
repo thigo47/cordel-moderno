@@ -28,9 +28,23 @@
   .normal{
     background-color: white;
   }
+  .ft{
+    background-attachment: fixed; 
+  }
   .ft>p{
-    background-color: rgba(0, 0, 0, 0.347);
+    background-color: rgba(0, 0, 0, 0.491);
     display: inline-block;
     padding: 10px;
+    color: white;
 
+  }
+  #ft1{
+background-image: url(imagens/background001.jpg);
+background-position: right,center;
+background-size: cover;
+  }
+  #ft2{
+background-image: url(imagens/background002.jpg);
+background-position: right,center;
+background-size: cover;
   }
