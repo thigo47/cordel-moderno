@@ -1,0 +1,44 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+  *{
+    font-size: larger;
+  }
+
+body{
+    margin: 0;
+    background-size: cover;
+
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+h1{
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , -50%);
+
+}
+#milton{
+    padding-bottom: 50px;
+    margin: 0;
+}
+
+main{
+    padding-left: 30px;
+    max-width: 500px;
+    min-width: 300px;
+}
+p{
+    font-family: 'Satisfy', cursive;
+}
+.p1{
+    background-color: rgba(128, 128, 128, 0.164);
+    width: 180px;
+    height: 100vh;
+}
